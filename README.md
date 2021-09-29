@@ -1,2 +1,4 @@
-# video_maker
-Como automatizar vídeos no youtube
+# Vídeo maker
+Como automatizar vídeos no youtube.
+
+Roteiro criado por Felipe Dechamps
